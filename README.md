@@ -1,7 +1,7 @@
 #Build Environment
 
 Compiles/Builds Typescript, Pug and Sass files using gulp
-It also runs Jasmine standalone to run specs
+It also use Jasmine standalone to run specs
 
 To begin use npm to install the dependencies 'npm install'
 to run type 'gulp'
