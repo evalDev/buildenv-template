@@ -8,5 +8,8 @@
   },
   "author": "@evalDev",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
 }
