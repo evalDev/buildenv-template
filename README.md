@@ -5,7 +5,9 @@ Compiles/Builds [Typescript](https://www.typescriptlang.org/), [Pug](http://jade
 It also use [Jasmine](https://jasmine.github.io/) standalone to run specs
 
 Requires
+
 [Node JS](https://nodejs.org/en/)
+
 To begin use npm to install the dependencies 'npm install'
 
 To run type 'gulp'
