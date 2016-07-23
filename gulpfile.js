@@ -7,6 +7,8 @@ var gulp = require('gulp'),
     server = require('browser-sync').create(),
     reload = server.reload;
 
+gulp.task('default', ['serve']);
+
 gulp.task('serve', ['ts2js', 'pug2html'], function(){
   server.init({
     server: {
